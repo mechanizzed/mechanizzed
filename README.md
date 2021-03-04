@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/lucianojguerra/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dsibr@hotmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechanizzed&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechanizzed&show_icons=true&theme=dracula&count_private=false)
